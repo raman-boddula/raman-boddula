@@ -79,7 +79,7 @@ Find out more about me & feel free to connect with me here:
 
 
 <p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+<img align="" height='120px' src="https://github.com/raman-boddula/raman-boddula/blob/cbb0bd073bdad0196d5204ca85d714aed7f62e76/Geometric%20White.gif" /><img align="" height='120px' src="https://github.com/raman-boddula/raman-boddula/blob/cbb0bd073bdad0196d5204ca85d714aed7f62e76/matrix.svg" /><img align="" height='120px' src="https://github.com/raman-boddula/raman-boddula/blob/cbb0bd073bdad0196d5204ca85d714aed7f62e76/Geometric%20White.gif" />
 </p>
 <br>
 
@@ -87,5 +87,5 @@ Find out more about me & feel free to connect with me here:
 
 
 <p align="center">
-   <img src="./github-contribution-grid-snake.gif" alt="snake">
+   <img src="https://github.com/raman-boddula/raman-boddula/blob/cbb0bd073bdad0196d5204ca85d714aed7f62e76/snake.svg" alt="snake">
 </p>
