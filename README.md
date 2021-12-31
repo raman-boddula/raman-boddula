@@ -2,8 +2,7 @@
 
 <img src="./header_.png">
 
-I am Raman Boddula, i have completed my Bachelor's of engineering in Computer Science from [Osmania University](https://www.osmania.ac.in/). I am a  aspriring full stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me lifting weights in the gym or at
-my desk sketching stuff and headphone in my ears .
+I am Raman Boddula, i have completed my Bachelor's of engineering in Computer Science from [Osmania University](https://www.osmania.ac.in/). I am a  aspriring full stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me cooking in the kitchen or playing the video games .
 
 Find out more about me & feel free to connect with me here:
 
@@ -73,7 +72,7 @@ Find out more about me & feel free to connect with me here:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+<!-- ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) -->
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📈 Stats
