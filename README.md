@@ -90,14 +90,14 @@ Find out more about me & feel free to connect with me here:
 <br></div>
 
 
-<p align="center">
+<!-- <p align="center">
 <img align="" height='120px' src="https://github.com/raman-boddula/raman-boddula/blob/cbb0bd073bdad0196d5204ca85d714aed7f62e76/Geometric%20White.gif" /><img align="" height='120px' src="https://github.com/raman-boddula/raman-boddula/blob/cbb0bd073bdad0196d5204ca85d714aed7f62e76/matrix.svg" /><img align="" height='120px' src="https://github.com/raman-boddula/raman-boddula/blob/cbb0bd073bdad0196d5204ca85d714aed7f62e76/Geometric%20White.gif" />
 </p>
-<br>
+<br> -->
 
 
 
-
+<!-- 
 <p align="center">
    <img src="https://github.com/raman-boddula/raman-boddula/blob/cbb0bd073bdad0196d5204ca85d714aed7f62e76/snake.svg" alt="snake">
-</p>
+</p> -->
