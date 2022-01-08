@@ -25,7 +25,7 @@ Find out more about me & feel free to connect with me here:
         <a href="https://portfolio-raman-boddula.vercel.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-	<a href="#">
+	<a href="tel:+918106428106">
 		 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 	</a>
         <a href="mailtoo:raman_rc001@gmail.com">
