@@ -2,7 +2,7 @@
 
 <img src="./header_.png">
 
-I am Raman Boddula, i have completed my Bachelor's of engineering in Computer Science from [Osmania University](https://www.osmania.ac.in/). I am a  aspriring full stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me cooking in the kitchen or playing the video games .
+I am Raman Boddula, I have completed my Bachelor's of engineering in Computer Science from [Osmania University](https://www.osmania.ac.in/). I am a  aspriring full stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me cooking in the kitchen or playing the video games .
 
 Find out more about me & feel free to connect with me here:
 
